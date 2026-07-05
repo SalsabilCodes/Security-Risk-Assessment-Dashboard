@@ -155,6 +155,3 @@ Security-Risk-Assessment-Dashboard/
 - AI Risk Suggestion Engine
 
 ---
-
-## License
-This project is licensed under the MIT License.
